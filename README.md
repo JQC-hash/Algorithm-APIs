@@ -1,2 +1,3 @@
 # Algorithm-APIs
-Algorithm APIs for the Princeton University online course
+
+Algorithm APIs dsveloped for the Princeton University online course (2018)
